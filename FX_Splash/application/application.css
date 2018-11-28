@@ -1,0 +1,30 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.logo{
+	-fx-font-family: 'Allerta Stencil';
+	-fx-text-fill:  #660167;
+	-fx-background-radius: 50.0;
+	-fx-background-color:  #CC9ACC;
+	
+	-fx-font-size: 50.0;
+}
+
+.nombreLogo{
+	-fx-font-family: 'Allerta Stencil';
+	-fx-text-fill: #CC9ACC;
+	-fx-font-size: 20.0;
+}
+.wait{
+	-fx-font-family: 'Allerta Stencil';
+	-fx-text-fill: #CC9ACC;
+	-fx-font-size: 15.0;
+}
+
+.logo2{
+	-fx-font-family: 'Allerta Stencil';
+	-fx-text-fill:  #660167;
+	-fx-background-radius: 50.0;
+	-fx-background-color:  #CC9ACC;
+	
+	-fx-font-size: 30.0;
+}
